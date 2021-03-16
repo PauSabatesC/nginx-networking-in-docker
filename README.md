@@ -1,4 +1,4 @@
-## NGINX networking running in docker!
+## NGINX networking template examples
 
 Clean and simple common nginx configurations in varios netwrking scenarios and distributed systems.
 
